@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Particle from "../../common/Particle";
 import TypeWriter from "./TypeWriter";
 import homeLogo from "../../Assets/home-main.svg";
 import HomeBottom from "./HomeBottom";
+import Particle from "../../common/Particle";
 
 const Home = () => {
   return (

@@ -5,7 +5,7 @@ const TypeWriter = () => {
   return (
     <Typewriter
       options={{
-        strings: ["Full Stack Developer: Java | ReactJs !"],
+        strings: ["Full Stack Developer - Java + ReactJs "],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
